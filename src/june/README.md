@@ -7,3 +7,5 @@ The solved solutions of June 2020 LeetCode challenge can be found here.
 [Invert Binary Tree](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week1/InvertBinaryTree.java)
 
 [Delete Node in a Linked List](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week1/DeleteNodeLinkedList.java)
+
+[Two City Scheduling](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week1/TwoCityScheduling.java)
