@@ -15,3 +15,9 @@ The solved solutions of June 2020 LeetCode challenge can be found here.
 [Random Pick with Weight](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week1/RandomPickWithWeight.java)
 
 [Queue Reconstruction by Height](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week1/QueueReconstructionByHeight.java)
+
+[Coin Change 2](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week1/CoinChange2.java)
+
+#### [Week 2 Solutions](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week2)
+
+[Power of Two](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week2/PowerofTwo.java)
