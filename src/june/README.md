@@ -27,3 +27,5 @@ The solved solutions of June 2020 LeetCode challenge can be found here.
 [Search Insert Position](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week2/SearchInsertPosition.java)
 
 [Sort Colors](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week2/SortColors.java)
+
+[Insert Delete GetRandom O(1)](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week2/InsertDeleteGetRandom.java)
