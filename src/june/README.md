@@ -23,3 +23,5 @@ The solved solutions of June 2020 LeetCode challenge can be found here.
 [Power of Two](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week2/PowerofTwo.java)
 
 [Is Subsequence](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week2/IsSubsequence.java)
+
+[Search Insert Position](https://github.com/navjotbedi/LeetCodeMonthlyChallenge/tree/master/src/june/week2/SearchInsertPosition.java)
